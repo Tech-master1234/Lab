@@ -1,0 +1,7 @@
+AccidentDate/Time,AccidentState,PipelineLocation,LiquidType,NetLoss(Barrels),AllCosts
+2023-01-01 08:00:00,Texas,Onshore,Crude Oil,100,5000000
+2023-02-05 15:30:00,California,Offshore,Natural Gas,50,3000000
+2023-03-10 12:45:00,Alaska,Onshore,Petroleum Products,75,4000000
+2023-04-15 10:20:00,Florida,Offshore,Crude Oil,120,6000000
+2023-05-20 09:10:00,Texas,Onshore,Natural Gas,80,4500000
+2023-06-25 11:55:00,California,Offshore,Petroleum Products,90,4800000
