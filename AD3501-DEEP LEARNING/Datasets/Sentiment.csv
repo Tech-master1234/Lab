@@ -1,0 +1,11 @@
+text,sentiment
+I love this product! It's amazing.,Positive
+This is the worst service I've ever used.,Negative
+Had a great time at the park today!,Positive
+Totally disappointed with the quality.,Negative
+"Best experience ever, highly recommend!",Positive
+Not worth the money.,Negative
+Fantastic customer support!,Positive
+"Terrible, will never come back.",Negative
+Enjoyed every moment of the trip.,Positive
+"Awful, just awful.",Negative

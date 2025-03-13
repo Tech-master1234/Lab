@@ -1,0 +1,10 @@
+Go.    Va !
+Hi.    Salut !
+Run!    Cours !
+Wait!    Attends !
+Hello!    Bonjour !
+I see.    Je vois.
+Nice.    Sympa.
+Yes.    Oui.
+No.    Non.
+Thanks.    Merci.

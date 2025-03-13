@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
+opencv-python
+dlib
+face-recognition
+gensim
+nltk
+scikit-learn
