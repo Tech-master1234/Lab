@@ -1,0 +1,6 @@
+Vehicle_ID,Vehicle_Type,Year_of_Manufacture,Manufacturer,Autonomous_Level,Mileage,Accidents,Safety_Rating
+1,SUV,2018.0,Toyota,3.0,25000.0,0.0,9.5
+2,,,,,,1.0,
+3,Truck,2020.0,Ford,,,0.0,7.9
+4,,,,,18000.0,,
+5,Electric,2019.0,Tesla,4.0,40000.0,0.0,8.5
