@@ -1,5 +1,4 @@
-````markdown
-# Data Exploration and Visualization Lab
+# 📊 Data Exploration and Visualization Lab
 
 This repository contains scripts and datasets for performing exploratory data analysis (EDA) and cartographic visualizations using **Python** and **R**.
 
@@ -9,8 +8,8 @@ This repository contains scripts and datasets for performing exploratory data an
 
 Before running the code, make sure you have the following installed:
 
-- **Python** (>= 3.8 recommended)  
-- **R** (>= 4.0 recommended)  
+- **Python** (≥ 3.8 recommended)  
+- **R** (≥ 4.0 recommended)  
 - **Git** (optional, for cloning the repository)
 
 ---
@@ -18,25 +17,30 @@ Before running the code, make sure you have the following installed:
 ## 🐍 Python Setup
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Tech-master1234/Lab.git
-````
+```
 
 ### 2. Create a virtual environment (recommended)
-# On Windows
+
+**On Windows:**
+
 ```bash
 python -m venv venv
-venv\Scripts\activate      
+venv\Scripts\activate
 ```
-# On Mac/Linux
+
+**On Mac/Linux:**
+
 ```bash
 python3 -m venv venv
-venv\Scripts\activate      
+source venv/bin/activate
 ```
 
 ### 3. Install required dependencies
 
-All Python dependencies are listed in **`requirements.txt`**. To install:
+All Python dependencies are listed in `requirements.txt`. To install:
 
 ```bash
 pip install -r requirements.txt
@@ -46,8 +50,8 @@ pip install -r requirements.txt
 
 ## 📊 R Setup
 
-Some analyses/visualizations may also use R.
-You can install the required R packages by running in R:
+Some analyses/visualizations may also use R.  
+You can install the required R packages by running:
 
 ```r
 install.packages(c("tidyverse", "ggplot2", "sf"))
@@ -57,13 +61,13 @@ install.packages(c("tidyverse", "ggplot2", "sf"))
 
 ## 🚀 Running the Project
 
-* To run the **Python visualizations**:
+To run the **Python visualizations**:
 
 ```bash
 python your_script_name.py
 ```
 
-* To run the **R scripts**:
+To run the **R scripts**:
 
 ```bash
 Rscript your_r_script.R
@@ -73,13 +77,13 @@ Rscript your_r_script.R
 
 ## 📂 Project Structure
 
-```
+```plaintext
 .
 ├── datasets/                # Contains datasets like Titanic, Global Landslides, Wine Quality
-    └── in_shp/                  # Shapefiles for India boundary map
+│   └── in_shp/              # Shapefiles for India boundary map
 ├── requirements.txt         # Python dependencies
-├── python_scripts.py      # Example Python visualization script
-├── r_script.R          # Example R visualization script
+├── python_scripts.py        # Example Python visualization script
+├── r_script.R               # Example R visualization script
 └── README.md
 ```
 
