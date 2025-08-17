@@ -1,5 +1,3 @@
-Got it ✅ — here’s a **README.md** draft for your project that mentions **Python, R, prerequisites, and installation steps**:
-
 ````markdown
 # Data Exploration and Visualization Lab
 
