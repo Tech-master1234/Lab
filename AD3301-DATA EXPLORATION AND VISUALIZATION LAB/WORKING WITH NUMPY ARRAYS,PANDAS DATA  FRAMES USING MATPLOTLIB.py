@@ -9,8 +9,9 @@ sample_array = np.array(my_list)
 print("List in Python:", my_list)
 print("NumPy Array in Python:", sample_array)
 
-# Python program to demonstrate creating a DataFrame from a dictionary
+print("=================================================")
 
+# Python program to demonstrate creating a DataFrame from a dictionary
 # Step 1: Import the Pandas module
 import pandas as pd
 

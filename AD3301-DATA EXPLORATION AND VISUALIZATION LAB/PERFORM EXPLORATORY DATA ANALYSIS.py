@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load Dataset
-file_path = "C:/Users/manoj/OneDrive/Documents/DEV LAB/iris.csv"
+file_path = r"datasets/iris.csv"
 iris = pd.read_csv(file_path, header=None, names=['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'species'])
 
 #Understanding Data

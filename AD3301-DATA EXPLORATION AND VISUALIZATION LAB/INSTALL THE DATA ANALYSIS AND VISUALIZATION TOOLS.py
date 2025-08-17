@@ -15,7 +15,7 @@ dframe = pd.DataFrame({
 })
 print(dframe)
 
-df = pd.read_csv("C:/Users/manoj/OneDrive/Documents/DEV LAB/IND_data.csv")
+df = pd.read_csv(r"datasets\IND_data.csv")
 print("\n",df.head())
 print("\n",df.shape)
 print(df.iloc[0:5,:]) 
